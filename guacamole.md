@@ -1,8 +1,7 @@
 # Guacalmole
 ## ingredients
-## instructions
 *avocado
-*lemon
+*lime
 *salt
 ##instructions
 
