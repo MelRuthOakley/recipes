@@ -4,4 +4,4 @@
 *lime 
 *salt
 ##instructions
-
+*remove the stone from the avocado
