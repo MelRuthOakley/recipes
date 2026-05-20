@@ -1,7 +1,7 @@
 # Guacalmole
 ## ingredients
-*avocado ££££
-*lime ££
-*salt £
+*avocado
+*lime 
+*salt
 ##instructions
 
